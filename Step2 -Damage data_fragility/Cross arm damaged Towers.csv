@@ -1,0 +1,24 @@
+Sl.No,Line Name,Line Id,Location Number,Nodenumber in network,Latitude,Longitude,Damage Observed,Remarks
+1,Pandiabili-Samngara,220_22,163,8652,20.0885234,85.6697278,Middle Crossarm Damaged,
+2,Pandiabili-Samngara,220_22,88,8577,19.9218035,85.7272518,2nd cross arm and above portion damaged,
+3,Pandiabili-Samngara,220_22,87,8576,19.9200131,85.7291669,Bottom cross arm and above portion damaged,
+4,Pandiabili-Samngara,220_22,84,8573,19.9165104,85.7359555,Middle Crossarm and above portion Damaged,
+5,Pandiabili-Samngara,220_22,73,8562,19.9172518,85.7646713,Bottom cross arm and above portion damaged,
+6,Pandiabili-Samngara,220_22,64,8553,19.9124553,85.7857776,Middle Crossarm and above portion Damaged,
+7,Pandiabili-Samngara,220_22,57,8546,19.9067508,85.8016884,3rd Section and above portion damaged,
+8,Pandiabili-Samngara,220_22,40,8529,19.9161044,85.842737,Top crossarm damaged,
+9,Pandiabili-Samngara,220_22,34,8523,19.9178696,85.8561587,Bottom cross arm and above portion damaged,
+10,Pandiabili-Samngara,220_22,26,8515,19.8996968,85.8620113,3rd Section and above portion damaged,
+11,Pandiabili-Samngara,220_22,23,8512,19.893235,85.861741,Middle Crossarm and above portion Damaged,
+12,Pandiabili-Samngara,220_22,17,8506,19.878394,85.8604932,Bottom cross arm and above portion damaged,
+13,Pandiabili-Samngara,220_22,13,8502,19.8697269,85.8640042,Middle Crossarm and above portion Damaged,
+14,Pandiabili-Samngara,220_22,12,8501,19.8673304,85.8651549,Top crossarm and above portion damaged,
+15,Pandiabili-Samngara,220_22,9,8498,19.8602116,85.8685398,Top crossarm damaged,
+16,Pandiabili-Samngara,220_22,7,8496,19.8552116,85.8708841,Top crossarm damaged,
+17,Pandiabili-Samngara,220_22,1,8490,19.8415073,85.8758193,Top crossarm and above portion damaged,
+18,Khordha- Puri ,132_37,108,18888,19.97142,85.7354585,Partially damaged (cross-arm),Collapse location directly based on given latitude and longitude.Location Number not considered
+19,Khordha- Puri ,132_37,109,18887,19.9688813,85.7342764,Partially damaged (cross-arm),Collapse location directly based on given latitude and longitude.Location Number not considered
+20,Khordha- Puri ,132_37,148,18847,19.9039902,85.8057939,Partially damaged (cross-arm and peak),Collapse location directly based on given latitude and longitude.Location Number not considered
+21,Nimapara - Puri,132_34,108,18575,19.8241987,85.8631915,Cross arm bend,
+22,Mancheswar - Cuttack Canal Road,132_45,29,19585,20.3503969,85.8749923,Cross arm damaged,"Near by village (Pulnakhara - 20.36155,85.8363653) is near river side. The towers are choosen accordingly near the village and satisfying the local node numbers as well"
+23,Choudwar - Kendrapara Road,132_189,17,30109,20.4977851,85.9183037,Cross-arm damage,

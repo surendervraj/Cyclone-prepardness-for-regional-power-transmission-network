@@ -1,0 +1,88 @@
+Sl.No,Line Name,Line Id,Location Number,Nodenumber in network,Latitude,Longitude,Damage Observed,Remarks
+1,Pandiabili-Samngara,220_22,103,8592,19.947906,85.7005128,Collapsed,
+2,Pandiabili-Samngara,220_22,89,8578,19.9235561,85.7253581,Collapsed,
+3,Pandiabili-Samngara,220_22,86,8575,19.9180815,85.7312778,Collapsed,
+4,Pandiabili-Samngara,220_22,85,8574,19.9161977,85.7332787,Collapsed,
+5,Pandiabili-Samngara,220_22,74,8563,19.9175973,85.7620481,Collapsed,
+6,Pandiabili-Samngara,220_22,72,8561,19.9169416,85.7663369,Collapsed,
+7,Pandiabili-Samngara,220_22,71,8560,19.9164045,85.7692632,Collapsed,
+8,Pandiabili-Samngara,220_22,70,8559,19.9159127,85.7718971,Collapsed,
+9,Pandiabili-Samngara,220_22,69,8558,19.9154058,85.7743889,Collapsed,
+10,Pandiabili-Samngara,220_22,68,8557,19.9149191,85.7770094,Collapsed,
+11,Pandiabili-Samngara,220_22,67,8556,19.9145198,85.7791416,Collapsed,
+12,Pandiabili-Samngara,220_22,66,8555,19.91415,85.7811159,Collapsed,
+13,Pandiabili-Samngara,220_22,65,8554,19.9136809,85.7836103,Collapsed,
+14,Pandiabili-Samngara,220_22,63,8552,19.9112423,85.7879421,Collapsed,
+15,Pandiabili-Samngara,220_22,62,8551,19.9101024,85.7899699,Collapsed,
+16,Pandiabili-Samngara,220_22,61,8550,19.9088112,85.7922685,Collapsed,
+17,Pandiabili-Samngara,220_22,60,8549,19.9076864,85.7943231,Collapsed,
+18,Pandiabili-Samngara,220_22,59,8548,19.9063725,85.7966432,Collapsed,
+19,Pandiabili-Samngara,220_22,58,8547,19.9057521,85.7994863,Collapsed,
+20,Pandiabili-Samngara,220_22,56,8545,19.9079689,85.8043599,Collapsed,
+21,Pandiabili-Samngara,220_22,55,8544,19.9081933,85.8058405,Collapsed,
+22,Pandiabili-Samngara,220_22,54,8543,19.9086397,85.8088794,Collapsed,
+23,Pandiabili-Samngara,220_22,53,8542,19.9089802,85.8112425,Collapsed,
+24,Pandiabili-Samngara,220_22,52,8541,19.9093862,85.8139059,Collapsed,
+25,Pandiabili-Samngara,220_22,51,8540,19.9098351,85.8155125,Collapsed,
+26,Pandiabili-Samngara,220_22,50,8539,19.9094492,85.8179989,Collapsed,
+27,Pandiabili-Samngara,220_22,45,8534,19.9121527,85.8294788,Collapsed,
+28,Pandiabili-Samngara,220_22,44,8533,19.912937,85.8320644,Collapsed,
+29,Pandiabili-Samngara,220_22,43,8532,19.9137364,85.8347949,Collapsed,
+30,Pandiabili-Samngara,220_22,42,8531,19.914445,85.8372009,Collapsed,
+31,Pandiabili-Samngara,220_22,41,8530,19.9152747,85.8399931,Collapsed,
+32,Pandiabili-Samngara,220_22,33,8522,19.9160943,85.8579344,Collapsed,
+33,Pandiabili-Samngara,220_22,28,8517,19.9047307,85.8618236,Collapsed,
+34,Pandiabili-Samngara,220_22,27,8516,19.9022743,85.8619577,Collapsed,
+35,Pandiabili-Samngara,220_22,25,8514,19.8971797,85.8630788,Collapsed,
+36,Pandiabili-Samngara,220_22,22,8511,19.8913384,85.860461,Collapsed,
+37,Pandiabili-Samngara,220_22,21,8510,19.8893409,85.8591574,Collapsed,
+38,Pandiabili-Samngara,220_22,20,8509,19.8866203,85.858886,Collapsed,
+39,Pandiabili-Samngara,220_22,19,8508,19.8834539,85.85857,Collapsed,
+40,Pandiabili-Samngara,220_22,18,8507,19.880755,85.8596054,Collapsed,
+41,Pandiabili-Samngara,220_22,16,8505,19.875965,85.8614159,Collapsed,
+42,Pandiabili-Samngara,220_22,11,8500,19.8648785,85.8663082,Collapsed,
+43,Pandiabili-Samngara,220_22,10,8499,19.862429,85.8674803,Collapsed,
+44,Pandiabili-Samngara,220_22,6,8495,19.8526535,85.8720803,Collapsed,
+45,Pandiabili-Samngara,220_22,5,8494,19.8502416,85.873239,Collapsed,
+46,Pandiabili-Samngara,220_22,4,8493,19.8477642,85.8743656,Collapsed,
+47,Pandiabili-Samngara,220_22,3,8492,19.8452362,85.8755431,Collapsed,
+48,Pandiabili-Samngara,220_22,2,8491,19.8427007,85.8766884,Collapsed,
+49,Cuttack-Mehndasal,220_25,72,8890,20.3556829,85.750549,Collapsed,"Local Node Number did not match. Closest tower to the specified village (Kujimahal- 20.3559,85.7520) location has been taken"
+50,Khorda (Atri) - Jaganathpur (Narendrapur),220_19,310,8194,19.8653639,85.2995347,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+51,Khorda (Atri) - Jaganathpur (Narendrapur),220_19,329,8213,19.8858332,85.3418159,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+52,Khorda (Atri) - Jaganathpur (Narendrapur),220_19,465,8349,20.166972,85.4928459,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+53,Khorda (Atri) - Jaganathpur (Narendrapur),220_19,466,8350,20.1687626,85.4951564,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+54,Khordha- Puri ,132_37,35,18963,20.1155584,85.6491243,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+55,Khordha- Puri ,132_37,36,18962,20.1133894,85.6511938,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+56,Khordha- Puri ,132_37,37,18961,20.1124608,85.6520998,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+57,Khordha- Puri ,132_37,91,18905,20.0154628,85.7378453,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+58,Khordha- Puri ,132_37,92,18904,20.012963,85.7382709,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+59,Khordha- Puri ,132_37,140,18856,19.9143764,85.7885096,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+60,Khordha- Puri ,132_37,147,18848,19.9068948,85.8053878,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+61,Khordha- Puri ,132_37,163,18834,19.8740434,85.8069101,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+62,Khordha- Puri ,132_37,164,18833,19.8725413,85.8092171,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+63,Khordha- Puri ,132_37,165,18832,19.8709402,85.8116776,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+64,Khordha- Puri ,132_37,166,18831,19.8694183,85.8140117,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+65,Khordha- Puri ,132_37,174,18823,19.8545407,85.8304322,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+66,Khordha- Puri ,132_37,184,18813,19.8416665,85.8500585,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+67,Khordha- Puri ,132_37,185,18812,19.840096,85.8522046,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+68,Khordha- Puri ,132_37,186,18811,19.8385495,85.8543038,Collapsed,Collapse location directly based on given latitude and longitude.Location Number not considered
+69,Nimapara - Puri,132_34,47,18514,19.9269049,85.9708446,Collapsed,
+70,Nimapara - Puri,132_34,73,18540,19.8741084,85.9321323,Collapsed,
+71,Nimapara - Puri,132_34,78,18545,19.8642277,85.9238389,Collapsed,
+72,Nimapara - Puri,132_34,79,18546,19.8623937,85.9220579,Collapsed,
+73,Nimapara - Puri,132_34,98,18565,19.8353637,85.8862665,Collapsed,
+74,Nimapara - Puri,132_34,109,18576,19.8235149,85.8605844,Collapsed,
+75,Chanadaka-Nimapara,132_36,141,18662,20.1386239,85.8496923,Collapsed,
+76,Chanadaka-Nimapara,132_36,142,18661,20.1365455,85.8510523,Collapsed,
+77,Chanadaka-Nimapara,132_36,145,18658,20.131157,85.858051,Collapsed,
+78,Chanadaka-Nimapara,132_36,146,18657,20.1295464,85.8607573,Collapsed,
+79,Chanadaka-Nimapara,132_36,155,18648,20.1127365,85.8810375,Collapsed,
+80,Chanadaka-Nimapara,132_36,156,18647,20.1104281,85.8825235,Collapsed,
+81,Chanadaka-Nimapara,132_36,157,18646,20.1081425,85.8840013,Collapsed,
+82,Chanadaka-Nimapara,132_36,161,18642,20.0982708,85.888089,Collapsed,
+83,Chanadaka-Nimapara,132_36,162,18641,20.0956785,85.8891534,Collapsed,
+84,Chandaka - Mehndasal,132_40,NA,19163,20.3851499,85.7998337,Collapsed,"Location number not available.Closest tower to the specified village (Daruthhuenga - 20.3805518,85.7874931) is chosen"
+85,Mancheswar - Chandaka ,132_43,NA,19497,20.3400165,85.8198847,Collapsed,Assumed near Mancheswar substation. No information to select a particular tower. 
+86,Chandaka-Choudwar,132_40,NA,19173,20.3598996,85.811576,Collapsed,"No information to select a particular tower. Assumed near the location of Kesora  (20.3541768,85.7922254)."
+87,Chandaka-Choudwar,132_40,NA,19172,20.362765,85.8116536,Collapsed,"No information to select a particular tower. Assumed near the location of Kesora  (20.3541768,85.7922254)."

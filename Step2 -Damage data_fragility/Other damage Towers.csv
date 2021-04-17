@@ -1,0 +1,19 @@
+Sl.No,Line Name,Line Id,Location Number,Nodenumber in network,Latitude,Longitude,Damage Observed,Remarks
+1,Khorda (Atri) - Jaganathpur (Narendrapur),220_19,330,8214,19.8880546,85.3435519,Broken - Not complete collapse,Collapse location directly based on given latitude and longitude.Location Number not considered
+2,Chandaka - Mehndasal,220_26,37,8969,20.3340231,85.7467331,Broken - Not complete collapse,Collapse location directly based on given latitude and longitude.Location Number not considered
+3,Chandaka - Mehndasal,220_26,46,8960,20.3153443,85.7376806,Broken - Not complete collapse,Collapse location directly based on given latitude and longitude.Location Number not considered
+4,Nimapara - Puri,132_34,46,18513,19.9287708,85.9724888,Peak Bend,
+5,Nimapara - Puri,132_34,48,18515,19.9247917,85.9689456,Peak Bend,
+6,Nimapara - Puri,132_34,49,18516,19.922676,85.9670466,Peak Bend,
+7,Nimapara - Puri,132_34,74,18541,19.8720703,85.9305042,Peak Bend,
+8,Nimapara - Puri,132_34,75,18542,19.8698757,85.9287018,Peak Bend,
+9,Nimapara - Puri,132_34,76,18543,19.868009,85.9272131,Peak Bend,
+10,Nimapara - Puri,132_34,80,18547,19.8605673,85.9202501,Peak Bend,
+11,Nimapara - Puri,132_34,81,18548,19.8587686,85.9184906,Peak Bend,
+12,Nimapara - Puri,132_34,99,18566,19.8342763,85.8836406,Peak Bend,
+13,Nimapara - Puri,132_34,110,18577,19.822869,85.8582401,Peak Bend,
+14,Nimapara - Puri,132_34,111,18578,19.8234594,85.8550429,Peak Bend,
+15,Chanadaka-Nimapara,132_36,158,18645,20.1058411,85.8849608,Peak Bend,
+16,Mancheswar - Cuttack Canal Road,132_45,27,19583,20.3510056,85.8698108,Partially Damaged,"Near by village (Pulnakhara - 20.36155,85.8363653) is near river side. The towers are choosen accordingly near the village and satisfying the local node numbers as well"
+17,Mancheswar - Cuttack Canal Road,132_45,28,19584,20.3507939,85.8715586,Partially Damaged,"Near by village (Pulnakhara - 20.36155,85.8363653) is near river side. The towers are choosen accordingly near the village and satisfying the local node numbers as well"
+18,Choudwar - Kendrapara Road ,132_189,16,30110,20.4999328,85.9203208,Tower damage,
